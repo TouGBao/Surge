@@ -512,7 +512,9 @@ ca-passphrase = password
 * [@unknownTokyo](https://t.me/unknownTokyo)
 
 ---
-
+### bug修复
+* 解决mac无法去在线爱奇艺视频广告问题，surgeS.conf。
+---
 ### License
 * 可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
 
